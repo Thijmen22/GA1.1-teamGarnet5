@@ -1,3 +1,4 @@
+This will multyply two numbers
 We added the subtract function, it can subtract 2 numbers. 
 
 ADD function:
