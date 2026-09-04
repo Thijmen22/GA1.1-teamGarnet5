@@ -1,0 +1,1 @@
+The function "mult" works with two parameters, you have to give it two numbers and it return the multiplication.
